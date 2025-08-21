@@ -1,6 +1,7 @@
 <h1>Aquí podrás encontrar todo el código desarrollado durante el video</h1>
 <h2>Agentes Inteligentes - Python </h2>
 <br>
+<p>🚀 ¿Quieres ENTENDER la Inteligencia Artificial desde las bases, sin la complejidad de las redes neuronales al principio? 🤔 En mi nuevo video, desmitifico la IA comenzando por los Agentes Inteligentes. Descubre cómo funcionan "por dentro" con ejemplos prácticos en Python.</p>
 <h2>Descarga la carpeta, y sigue los siguientes pasos:</h2>
 <ul>
   <li>Descomprimir la carpeta</li>
