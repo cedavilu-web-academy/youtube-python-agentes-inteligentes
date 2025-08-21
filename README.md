@@ -1,5 +1,5 @@
 <h1>Aquí podrás encontrar todo el código desarrollado durante el video</h1>
-<h2>Agentes Inteligentes - Pythons </h2>
+<h2>Agentes Inteligentes - Python </h2>
 <br>
 <h2>Descarga la carpeta, y sigue los siguientes pasos:</h2>
 <ul>
